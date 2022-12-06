@@ -1,0 +1,44 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+.section
+{
+	padding-top:50px;
+}
+.container{
+	margin:0 auto;
+	width:90%;
+}
+.row{
+	display:flex;
+	padding:10px;
+}
+
+.icon{
+	padding:10px;
+	display:flex;
+	
+
+}
+i{
+	color:#ffc451;
+	font-size:40px;
+	padding-left:20px;
+	
+}
+
+.box{
+	padding-left:20px;
+	padding-bottom:30px;
+}
+p{
+	padding:1px;
+	color:#848484;
+
+}
+h2{
+	padding:1px;
+	padding-bottom:5px;
+}
